@@ -9,12 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/cdn/shop/assets/icon-192.png",
+      "src": "https://cdn.shopify.com/s/files/1/0621/8396/4846/t/28/assets/favicon.png?v=1750270096",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/cdn/shop/assets/icon-512.png",
+      "src": "https://cdn.shopify.com/s/files/1/0621/8396/4846/t/28/assets/favicon.png?v=1750270096",
       "sizes": "512x512",
       "type": "image/png"
     }
